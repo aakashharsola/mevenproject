@@ -1,0 +1,5 @@
+2022-05-29 23:23:30,459  INFO [main] SauceDemoProjectva:38 - url is open
+2022-05-29 23:23:30,651  INFO [main] SauceDemoProjectva:55 - enter user name
+2022-05-29 23:23:30,748  INFO [main] SauceDemoProjectva:58 - enter passwoard
+2022-05-29 23:23:42,738  INFO [main] SauceDemoProjectva:83 - click on logout button
+2022-05-29 23:23:44,846  INFO [main] SauceDemoProjectva:94 - end of program
